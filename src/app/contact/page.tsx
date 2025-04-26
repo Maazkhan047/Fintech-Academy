@@ -60,4 +60,4 @@ export function Contact() {
     </div>
   )
 }
-export default Contact
+export default Contact;

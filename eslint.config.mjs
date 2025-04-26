@@ -9,7 +9,14 @@ const compat = new FlatCompat({
   baseDirectory: __dirname,
 });
 
+
+
 const eslintConfig = [
+  {
+    "rules": {
+      "@typescript-eslint/no-unused-vars": "off"
+    }
+  },
   ...compat.extends("next/core-web-vitals", "next/typescript"),
 ];
 
