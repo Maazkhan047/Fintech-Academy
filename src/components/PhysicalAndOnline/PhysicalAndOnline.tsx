@@ -91,7 +91,7 @@ const PhysicalAndOnline = () => {
               className="w-full h-[80%]"
               title="Youtube video player"
               src="https://www.youtube.com/embed/kiPrrtclZOA?autoplay=1&start=3434"
-              frameborder="0"
+              frameBorder ="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             ></iframe>
             <X
