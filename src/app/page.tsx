@@ -1,5 +1,4 @@
 import Courses from "@/components/Courses/Courses";
-import Footer from "@/components/Footer/Footer";
 import GetFullAcess from "@/components/GetFullAcess/GetFullAcess";
 import Hero from "@/components/Hero/Hero";
 import OurPartner from "@/components/OurPartner/OurPartner";

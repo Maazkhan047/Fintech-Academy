@@ -1,7 +1,7 @@
 import uzair_bin_sajid from "@/assets/Uzair-Bin-Sajid-qk5ch3wyckvb484ptk72cxvc0r8sdqs9xqup6i9d60.jpg";
 import ehsan_durrani from "@/assets/ehsan-durrani-qk5ch3wyckvb484ptk72cxvc0r8sdqs9xqup6i9d60.jpg";
 import samiullah_khan from "@/assets/DSC_9082-scaled-qk5ch3x3ybbt9ler2a2dq9vteo5098qh5kr0powjs0.jpg";
-import { Star, StarHalf, Stars, StarsIcon } from "lucide-react";
+import { Star } from "lucide-react";
 import Image from "next/image";
 
 const Testimonials = () => {
