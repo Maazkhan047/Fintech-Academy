@@ -4,7 +4,7 @@ import customer_support from '@/assets/customer_support.jpg'
 import { PhoneCall, SquareArrowOutUpRightIcon } from "lucide-react"
 import { useState } from "react";
 
-export function Contact() {
+  function Contact() {
   const [result, setResult] = useState<string>("");
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
       e.preventDefault();
